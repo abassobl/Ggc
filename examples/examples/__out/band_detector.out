@@ -1,0 +1,17 @@
+Parts list :
+
+Sender:
+Q7, Q8, Q9, Q10, Q11
+
+Receiver :
+Q12, Q13, Q14
+
+Details :
+Q7 : light sensor
+Q8 : Tetr full
+Q9 : Lux promotor
+Q10 : Ahl molecule
+Q11 : lux receiver
+Q12 : Cl
+Q13 : gfp inhibitor laclm1
+Q14 : gfp inhibitor lacl
